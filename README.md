@@ -1,4 +1,4 @@
-##YOLO Algorithm Overview
+#YOLO Algorithm Overview
 YOLO (You Only Look Once) is a state-of-the-art object detection algorithm that can detect objects in images and videos with impressive speed and accuracy. Unlike traditional object detection methods that involve multiple stages and complex computations, YOLO is a single-stage detector that performs detection and classification simultaneously in a single forward pass of the neural network.
 
 #Key Features:
